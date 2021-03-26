@@ -1,0 +1,14 @@
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\bin\Debug\E-Kütüphanem.exe
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\bin\Debug\E-Kütüphanem.pdb
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\bin\Debug\MetroFramework.Design.dll
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\bin\Debug\MetroFramework.dll
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.csprojAssemblyReference.cache
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E_Kütüphanem.Form1.resources
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E_Kütüphanem.Properties.Resources.resources
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.csproj.GenerateResource.cache
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.csproj.CoreCompileInputs.cache
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.csproj.CopyComplete
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.exe
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E-Kütüphanem.pdb
+C:\Users\astro\source\repos\E-Kütüphanem\E-Kütüphanem\obj\Debug\E_Kütüphanem.Form2.resources
